@@ -15,22 +15,22 @@
 		EAF7BE5B299C225700A9F9C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAF7BE59299C225700A9F9C1 /* LaunchScreen.storyboard */; };
 		EAF7BE66299C228B00A9F9C1 /* UsersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE65299C228B00A9F9C1 /* UsersViewModel.swift */; };
 		EAF7BE68299C229200A9F9C1 /* UsersModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE67299C229200A9F9C1 /* UsersModel.swift */; };
-		EAF7BE6B299C22A300A9F9C1 /* CustomVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE6A299C22A300A9F9C1 /* CustomVC.swift */; };
-		EAF7BE6D299C22AA00A9F9C1 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE6C299C22AA00A9F9C1 /* CustomViewController.swift */; };
-		EAF7BE70299C22CE00A9F9C1 /* NetworkingManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE6F299C22CE00A9F9C1 /* NetworkingManger.swift */; };
-		EAF7BE72299C22DC00A9F9C1 /* EventsMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE71299C22DC00A9F9C1 /* EventsMonitor.swift */; };
-		EAF7BE74299C230900A9F9C1 /* RequestInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE73299C230900A9F9C1 /* RequestInterceptor.swift */; };
-		EAF7BE76299C236800A9F9C1 /* RequestRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE75299C236800A9F9C1 /* RequestRouter.swift */; };
 		EAF7BE7C299C23AF00A9F9C1 /* CombineDataSources in Frameworks */ = {isa = PBXBuildFile; productRef = EAF7BE7B299C23AF00A9F9C1 /* CombineDataSources */; };
-		EAF7BE7E299C25C200A9F9C1 /* ApiError.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE7D299C25C200A9F9C1 /* ApiError.swift */; };
 		EAF7BE81299C263200A9F9C1 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = EAF7BE80299C263200A9F9C1 /* Alamofire */; };
-		EAF7BE83299C2B6A00A9F9C1 /* NetworkReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE82299C2B6A00A9F9C1 /* NetworkReachability.swift */; };
-		EAF7BE85299C2C7200A9F9C1 /* ErrorCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE84299C2C7200A9F9C1 /* ErrorCode.swift */; };
 		EAF7BE87299C2DC900A9F9C1 /* UsersListUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE86299C2DC900A9F9C1 /* UsersListUseCase.swift */; };
 		EAF7BE89299C2DD300A9F9C1 /* FetchUsersList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE88299C2DD300A9F9C1 /* FetchUsersList.swift */; };
-		EAF7BE8F299C338F00A9F9C1 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE8E299C338F00A9F9C1 /* Coordinator.swift */; };
-		EAF7BE91299C33B900A9F9C1 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE90299C33B900A9F9C1 /* AppCoordinator.swift */; };
-		EAF7BE93299C33F100A9F9C1 /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE92299C33F100A9F9C1 /* Storyboarded.swift */; };
+		EAF7BEAB299C50C000A9F9C1 /* RequestInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE9C299C50C000A9F9C1 /* RequestInterceptor.swift */; };
+		EAF7BEAC299C50C000A9F9C1 /* EventsMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE9D299C50C000A9F9C1 /* EventsMonitor.swift */; };
+		EAF7BEAD299C50C000A9F9C1 /* ApiError.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE9E299C50C000A9F9C1 /* ApiError.swift */; };
+		EAF7BEAE299C50C000A9F9C1 /* ErrorCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BE9F299C50C000A9F9C1 /* ErrorCode.swift */; };
+		EAF7BEAF299C50C000A9F9C1 /* RequestRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA0299C50C000A9F9C1 /* RequestRouter.swift */; };
+		EAF7BEB0299C50C000A9F9C1 /* NetworkingManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA1299C50C000A9F9C1 /* NetworkingManger.swift */; };
+		EAF7BEB1299C50C000A9F9C1 /* NetworkReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA2299C50C000A9F9C1 /* NetworkReachability.swift */; };
+		EAF7BEB2299C50C000A9F9C1 /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA5299C50C000A9F9C1 /* AppCoordinator.swift */; };
+		EAF7BEB3299C50C000A9F9C1 /* Storyboarded.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA6299C50C000A9F9C1 /* Storyboarded.swift */; };
+		EAF7BEB4299C50C000A9F9C1 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA7299C50C000A9F9C1 /* Coordinator.swift */; };
+		EAF7BEB5299C50C000A9F9C1 /* CustomVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEA9299C50C000A9F9C1 /* CustomVC.swift */; };
+		EAF7BEB6299C50C000A9F9C1 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF7BEAA299C50C000A9F9C1 /* CustomViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,20 +44,20 @@
 		EAF7BE5C299C225700A9F9C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EAF7BE65299C228B00A9F9C1 /* UsersViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersViewModel.swift; sourceTree = "<group>"; };
 		EAF7BE67299C229200A9F9C1 /* UsersModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersModel.swift; sourceTree = "<group>"; };
-		EAF7BE6A299C22A300A9F9C1 /* CustomVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVC.swift; sourceTree = "<group>"; };
-		EAF7BE6C299C22AA00A9F9C1 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
-		EAF7BE6F299C22CE00A9F9C1 /* NetworkingManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManger.swift; sourceTree = "<group>"; };
-		EAF7BE71299C22DC00A9F9C1 /* EventsMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsMonitor.swift; sourceTree = "<group>"; };
-		EAF7BE73299C230900A9F9C1 /* RequestInterceptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestInterceptor.swift; sourceTree = "<group>"; };
-		EAF7BE75299C236800A9F9C1 /* RequestRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestRouter.swift; sourceTree = "<group>"; };
-		EAF7BE7D299C25C200A9F9C1 /* ApiError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiError.swift; sourceTree = "<group>"; };
-		EAF7BE82299C2B6A00A9F9C1 /* NetworkReachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkReachability.swift; sourceTree = "<group>"; };
-		EAF7BE84299C2C7200A9F9C1 /* ErrorCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorCode.swift; sourceTree = "<group>"; };
 		EAF7BE86299C2DC900A9F9C1 /* UsersListUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersListUseCase.swift; sourceTree = "<group>"; };
 		EAF7BE88299C2DD300A9F9C1 /* FetchUsersList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchUsersList.swift; sourceTree = "<group>"; };
-		EAF7BE8E299C338F00A9F9C1 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
-		EAF7BE90299C33B900A9F9C1 /* AppCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
-		EAF7BE92299C33F100A9F9C1 /* Storyboarded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
+		EAF7BE9C299C50C000A9F9C1 /* RequestInterceptor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestInterceptor.swift; sourceTree = "<group>"; };
+		EAF7BE9D299C50C000A9F9C1 /* EventsMonitor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsMonitor.swift; sourceTree = "<group>"; };
+		EAF7BE9E299C50C000A9F9C1 /* ApiError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiError.swift; sourceTree = "<group>"; };
+		EAF7BE9F299C50C000A9F9C1 /* ErrorCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorCode.swift; sourceTree = "<group>"; };
+		EAF7BEA0299C50C000A9F9C1 /* RequestRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestRouter.swift; sourceTree = "<group>"; };
+		EAF7BEA1299C50C000A9F9C1 /* NetworkingManger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkingManger.swift; sourceTree = "<group>"; };
+		EAF7BEA2299C50C000A9F9C1 /* NetworkReachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkReachability.swift; sourceTree = "<group>"; };
+		EAF7BEA5299C50C000A9F9C1 /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
+		EAF7BEA6299C50C000A9F9C1 /* Storyboarded.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Storyboarded.swift; sourceTree = "<group>"; };
+		EAF7BEA7299C50C000A9F9C1 /* Coordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		EAF7BEA9299C50C000A9F9C1 /* CustomVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomVC.swift; sourceTree = "<group>"; };
+		EAF7BEAA299C50C000A9F9C1 /* CustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,10 +92,10 @@
 		EAF7BE4D299C225500A9F9C1 /* CombineNetworkingLayer */ = {
 			isa = PBXGroup;
 			children = (
+				EAF7BE9B299C50C000A9F9C1 /* NetworkingLayer */,
 				EAF7BE62299C226000A9F9C1 /* AppDelegate */,
-				EAF7BE6E299C22BC00A9F9C1 /* NetworkingLayer */,
 				EAF7BE64299C228100A9F9C1 /* Scenes */,
-				EAF7BE97299C3F7A00A9F9C1 /* Helper */,
+				EAF7BEA3299C50C000A9F9C1 /* Helper */,
 				EAF7BE63299C227300A9F9C1 /* Storyboards */,
 				EAF7BE57299C225700A9F9C1 /* Assets.xcassets */,
 				EAF7BE5C299C225700A9F9C1 /* Info.plist */,
@@ -127,30 +127,6 @@
 				EAF7BE98299C3F9200A9F9C1 /* UsersListScene */,
 			);
 			path = Scenes;
-			sourceTree = "<group>";
-		};
-		EAF7BE69299C229600A9F9C1 /* CustomVCInitializer */ = {
-			isa = PBXGroup;
-			children = (
-				EAF7BE6A299C22A300A9F9C1 /* CustomVC.swift */,
-				EAF7BE6C299C22AA00A9F9C1 /* CustomViewController.swift */,
-			);
-			name = CustomVCInitializer;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		EAF7BE6E299C22BC00A9F9C1 /* NetworkingLayer */ = {
-			isa = PBXGroup;
-			children = (
-				EAF7BE6F299C22CE00A9F9C1 /* NetworkingManger.swift */,
-				EAF7BE75299C236800A9F9C1 /* RequestRouter.swift */,
-				EAF7BE71299C22DC00A9F9C1 /* EventsMonitor.swift */,
-				EAF7BE73299C230900A9F9C1 /* RequestInterceptor.swift */,
-				EAF7BE82299C2B6A00A9F9C1 /* NetworkReachability.swift */,
-				EAF7BE7D299C25C200A9F9C1 /* ApiError.swift */,
-				EAF7BE84299C2C7200A9F9C1 /* ErrorCode.swift */,
-			);
-			name = NetworkingLayer;
 			sourceTree = "<group>";
 		};
 		EAF7BE8A299C2DD700A9F9C1 /* UseCase */ = {
@@ -186,26 +162,6 @@
 			path = ViewController;
 			sourceTree = "<group>";
 		};
-		EAF7BE94299C343B00A9F9C1 /* NavigationLayer */ = {
-			isa = PBXGroup;
-			children = (
-				EAF7BE92299C33F100A9F9C1 /* Storyboarded.swift */,
-				EAF7BE90299C33B900A9F9C1 /* AppCoordinator.swift */,
-				EAF7BE8E299C338F00A9F9C1 /* Coordinator.swift */,
-			);
-			name = NavigationLayer;
-			path = ..;
-			sourceTree = "<group>";
-		};
-		EAF7BE97299C3F7A00A9F9C1 /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-				EAF7BE69299C229600A9F9C1 /* CustomVCInitializer */,
-				EAF7BE94299C343B00A9F9C1 /* NavigationLayer */,
-			);
-			path = Helper;
-			sourceTree = "<group>";
-		};
 		EAF7BE98299C3F9200A9F9C1 /* UsersListScene */ = {
 			isa = PBXGroup;
 			children = (
@@ -215,6 +171,48 @@
 				EAF7BE8D299C2DF100A9F9C1 /* ViewController */,
 			);
 			path = UsersListScene;
+			sourceTree = "<group>";
+		};
+		EAF7BE9B299C50C000A9F9C1 /* NetworkingLayer */ = {
+			isa = PBXGroup;
+			children = (
+				EAF7BE9C299C50C000A9F9C1 /* RequestInterceptor.swift */,
+				EAF7BE9D299C50C000A9F9C1 /* EventsMonitor.swift */,
+				EAF7BE9E299C50C000A9F9C1 /* ApiError.swift */,
+				EAF7BE9F299C50C000A9F9C1 /* ErrorCode.swift */,
+				EAF7BEA0299C50C000A9F9C1 /* RequestRouter.swift */,
+				EAF7BEA1299C50C000A9F9C1 /* NetworkingManger.swift */,
+				EAF7BEA2299C50C000A9F9C1 /* NetworkReachability.swift */,
+			);
+			path = NetworkingLayer;
+			sourceTree = "<group>";
+		};
+		EAF7BEA3299C50C000A9F9C1 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				EAF7BEA4299C50C000A9F9C1 /* NavigationLayer */,
+				EAF7BEA8299C50C000A9F9C1 /* CustomVCInitializer */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		EAF7BEA4299C50C000A9F9C1 /* NavigationLayer */ = {
+			isa = PBXGroup;
+			children = (
+				EAF7BEA5299C50C000A9F9C1 /* AppCoordinator.swift */,
+				EAF7BEA6299C50C000A9F9C1 /* Storyboarded.swift */,
+				EAF7BEA7299C50C000A9F9C1 /* Coordinator.swift */,
+			);
+			path = NavigationLayer;
+			sourceTree = "<group>";
+		};
+		EAF7BEA8299C50C000A9F9C1 /* CustomVCInitializer */ = {
+			isa = PBXGroup;
+			children = (
+				EAF7BEA9299C50C000A9F9C1 /* CustomVC.swift */,
+				EAF7BEAA299C50C000A9F9C1 /* CustomViewController.swift */,
+			);
+			path = CustomVCInitializer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,25 +294,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAF7BE76299C236800A9F9C1 /* RequestRouter.swift in Sources */,
 				EAF7BE68299C229200A9F9C1 /* UsersModel.swift in Sources */,
-				EAF7BE6D299C22AA00A9F9C1 /* CustomViewController.swift in Sources */,
-				EAF7BE85299C2C7200A9F9C1 /* ErrorCode.swift in Sources */,
 				EAF7BE53299C225500A9F9C1 /* UsersViewController.swift in Sources */,
 				EAF7BE4F299C225500A9F9C1 /* AppDelegate.swift in Sources */,
-				EAF7BE72299C22DC00A9F9C1 /* EventsMonitor.swift in Sources */,
-				EAF7BE91299C33B900A9F9C1 /* AppCoordinator.swift in Sources */,
+				EAF7BEB5299C50C000A9F9C1 /* CustomVC.swift in Sources */,
+				EAF7BEAD299C50C000A9F9C1 /* ApiError.swift in Sources */,
+				EAF7BEB0299C50C000A9F9C1 /* NetworkingManger.swift in Sources */,
+				EAF7BEAB299C50C000A9F9C1 /* RequestInterceptor.swift in Sources */,
+				EAF7BEAC299C50C000A9F9C1 /* EventsMonitor.swift in Sources */,
 				EAF7BE89299C2DD300A9F9C1 /* FetchUsersList.swift in Sources */,
+				EAF7BEAE299C50C000A9F9C1 /* ErrorCode.swift in Sources */,
+				EAF7BEB1299C50C000A9F9C1 /* NetworkReachability.swift in Sources */,
+				EAF7BEB4299C50C000A9F9C1 /* Coordinator.swift in Sources */,
+				EAF7BEB6299C50C000A9F9C1 /* CustomViewController.swift in Sources */,
+				EAF7BEAF299C50C000A9F9C1 /* RequestRouter.swift in Sources */,
 				EAF7BE87299C2DC900A9F9C1 /* UsersListUseCase.swift in Sources */,
-				EAF7BE6B299C22A300A9F9C1 /* CustomVC.swift in Sources */,
-				EAF7BE8F299C338F00A9F9C1 /* Coordinator.swift in Sources */,
-				EAF7BE83299C2B6A00A9F9C1 /* NetworkReachability.swift in Sources */,
-				EAF7BE70299C22CE00A9F9C1 /* NetworkingManger.swift in Sources */,
-				EAF7BE74299C230900A9F9C1 /* RequestInterceptor.swift in Sources */,
-				EAF7BE7E299C25C200A9F9C1 /* ApiError.swift in Sources */,
+				EAF7BEB2299C50C000A9F9C1 /* AppCoordinator.swift in Sources */,
 				EAF7BE66299C228B00A9F9C1 /* UsersViewModel.swift in Sources */,
-				EAF7BE93299C33F100A9F9C1 /* Storyboarded.swift in Sources */,
 				EAF7BE51299C225500A9F9C1 /* SceneDelegate.swift in Sources */,
+				EAF7BEB3299C50C000A9F9C1 /* Storyboarded.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
